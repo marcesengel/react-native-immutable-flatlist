@@ -1,0 +1,33 @@
+{
+  "name": "react-native-immutable-flatlist",
+  "version": "1.0.0",
+  "description": "A dropin replacement for the react-native FlatList to use with Immutable.JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonRaider5/react-native-immutable-flatlist.git"
+  },
+  "keywords": [
+    "react-native",
+    "FlatList",
+    "immutable",
+    "Immutable.JS"
+  ],
+  "author": "DragonRaider5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DragonRaider5/react-native-immutable-flatlist/issues"
+  },
+  "homepage": "https://github.com/DragonRaider5/react-native-immutable-flatlist#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "babel-eslint": "^7.2.3",
+    "eslint-plugin-react": "^7.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.47.2"
+  }
+}
